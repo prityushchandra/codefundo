@@ -1,0 +1,24 @@
+Good predictions and warnings save lives. Prediction is concerned with forecasting the occurence of an earthquake of a particular intensity
+over a specific locality within a specific time limit. Normally prediction is of three types viz. long,medium and short range prediction.
+While long range predictiom is concerned with with forecasting the occurence of an earthquake a number of years in advance,medium term 
+prediction is to be done a few months to a year or so and the short term predictions implies forecast ranging from a few hours to some days in advance.
+Medium and short range predictions are very useful because they can help in saving the largest population from disaster in terms of life and 
+property. We believe that it is possible to predict the major earthquakes by monitoring the seismicity caused by natural earthquakes,
+mining blasts,nuclear test etc.
+
+From decades it has been a difficult job to predict earthquake. But with the advancement of technology and rapid development in the field of 
+machine learning,data science, it has now become possible to predict certain impossible jobs.
+Machine learning is used to find the relationship between the acoustic signal coming from the fault and how close it is to failing.
+The machine learning algorithm was able to identify a particular pattern in the sound, previously thought to be nothing more than noise,
+which occurs long before an earthquake. The characteristics of this sound pattern can be used to give a precise estimate (within a few percent)
+of the stress on the fault (that is, how much force is it under) and to estimate the time remaining before failure, which gets more and more 
+precise as failure approaches. Our idea is to analyze this sound pattern in a direct measure of the elastic energy that is in the system at a given time.
+
+This will be the first time that machine learning will be used to analyse acoustic data to predict when an earthquake will occur, long before it does, 
+so that plenty of warning time can be given.
+
+The puzzle is how the machine can do this. According to Rouet-Leduc, seismic precursors can be much smaller than had previously been thought
+and so are not usually recorded in the real world. The machine seems to have spotted an entirely new signal that geologists had previously dismissed as 
+noise in the laboratory quakes. Our machine-learning analysis provides new insight into earthquake exploration.
+
+So our idea can prove to be a milestone in earthquake predictions.
